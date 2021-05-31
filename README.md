@@ -1,1 +1,2 @@
-# meu-primeiro-repositorio-etvn
+# meu-primeiro-repositorio-etvn na escola vida nova
+e quero aprender muito
