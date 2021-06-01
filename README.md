@@ -1,2 +1,3 @@
-# meu-primeiro-repositorio-etvn na escola vida nova,para aprender mais sobre o assunto
+# meu-primeiro contato com git na escola de 
+tecnologia
 
