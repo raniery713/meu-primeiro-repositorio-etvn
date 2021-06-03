@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Meu primeiro conteudo para aprender mais sobre repositorio git
 Escola De Tecnoogia Vida Nova
+=======
+Meu primeiro contato com git na escola de tecnologia vida nova, e quero aprender muito mais
+>>>>>>> 8146778e431cc0dd7d92cad10c8b05b8cd7ec01f
